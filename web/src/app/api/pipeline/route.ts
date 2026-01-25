@@ -70,7 +70,10 @@ export async function POST(request: Request) {
     console.log('[API] Running pipeline...');
     const { stdout, stderr } = await execAsync(
       `cd "${cwd}" && npm run pipeline`,
-      { timeout: 900000 } // 15 minute timeout for full pipeline
+      {
+        timeout: 0, // allow the full pipeline to run without time limit
+        maxBuffer: 10 * 1024 * 1024, // increase buffer to handle verbose logs
+      }
     );
     
     console.log('[API] Pipeline stdout (last 1000 chars):', stdout.slice(-1000));

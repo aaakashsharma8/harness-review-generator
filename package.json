@@ -6,6 +6,7 @@
   "scripts": {
     "login": "npx tsx scripts/login.ts",
     "pipeline": "npx tsx scripts/run-pipeline-with-config.ts",
+    "resume:from-raw": "npx tsx scripts/resume-from-raw.ts",
     "test:browser": "npx tsx scripts/test-browser.ts",
     "test:crawler": "npx tsx scripts/test-pr-crawler.ts",
     "test:jira": "npx tsx scripts/test-jira.ts"
