@@ -1,0 +1,60 @@
+# ======================
+# Dependencies
+# ======================
+node_modules/
+web/node_modules/
+
+# ======================
+# Build output
+# ======================
+dist/
+web/.next/
+
+# ======================
+# Chrome Profile
+# Contains SSO auth sessions - sensitive, user-specific
+# ======================
+chrome-user-data/
+
+# ======================
+# Generated Data
+# All pipeline output files - user-specific
+# ======================
+data/raw.json
+data/processed.json
+data/alignment.json
+data/self-review.json
+data/pipeline-config.json
+
+# ======================
+# Environment
+# ======================
+.env
+.env.local
+.env*.local
+
+# ======================
+# OS files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# IDE / Editor
+# ======================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ======================
+# Logs
+# ======================
+*.log
+npm-debug.log*
+
+# ======================
+# TypeScript
+# ======================
+*.tsbuildinfo

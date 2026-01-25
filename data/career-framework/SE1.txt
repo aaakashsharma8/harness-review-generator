@@ -1,0 +1,41 @@
+# Software Engineer 1 (SE1) - Career Framework
+
+### Frontend
+
+#### Technical Excellence
+- Understands core web fundamentals (HTML, CSS, JavaScript, basic React)
+- Implements well-scoped UI components using existing patterns
+- Writes readable and testable code with guidance
+
+#### Execution & Delivery
+- Completes assigned tasks reliably with clear requirements
+- Breaks work into small, reviewable PRs
+- Learns basics of deployment and on-call processes
+
+#### Collaboration & Influence
+- Communicates progress and blockers clearly
+- Participates in code reviews and incorporates feedback
+
+#### Customer & Business Impact
+- Implements UI changes aligned with product requirements
+- Understands basic user workflows
+
+---
+
+### Backend
+
+#### Technical Excellence
+- Understands core CS concepts and backend fundamentals
+- Implements APIs and services with guidance
+- Writes unit tests for assigned changes
+
+#### Execution & Delivery
+- Delivers scoped backend tasks with support
+- Follows existing service patterns and runbooks
+
+#### Collaboration & Influence
+- Works effectively within the team
+- Seeks help early when blocked
+
+#### Customer & Business Impact
+- Delivers backend changes aligned with feature requirements

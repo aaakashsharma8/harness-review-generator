@@ -1,0 +1,30 @@
+# Staff Engineer 2 (Staff2) - Career Framework
+
+**Scope:** Owns technical direction across a broad domain or multiple platforms  
+**Focus:** Strategic execution, leverage, sustained multi-quarter impact
+
+### Technical Excellence
+- Defines and drives architecture across multiple interconnected systems
+- Leads resolution of the most complex and ambiguous technical problems
+- Identifies systemic risks and addresses them proactively
+- Raises the engineering quality bar across teams
+- Guides architectural evolution over multiple quarters
+
+### Execution & Delivery
+- Owns execution strategy for multiple parallel initiatives
+- Aligns technical roadmaps with organizational priorities
+- Makes difficult prioritization and trade-off decisions
+- Ensures long-term maintainability and operability of critical systems
+- Acts as final escalation point for technical issues within the domain
+
+### Collaboration & Influence
+- Influences engineering direction across org boundaries
+- Builds alignment between teams with competing priorities
+- Coaches senior engineers and Staff 1 engineers
+- Serves as a trusted technical advisor to leadership
+- Drives adoption of shared platforms, patterns, and best practices
+
+### Customer & Business Impact
+- Delivers sustained, multi-quarter impact on key business metrics
+- Enables new product capabilities through platform evolution
+- Improves engineering efficiency, reliability, and scale

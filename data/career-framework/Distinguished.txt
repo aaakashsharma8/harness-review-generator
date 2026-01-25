@@ -1,0 +1,28 @@
+# Distinguished Engineer (Distinguished) - Career Framework
+
+**Scope:** Company-wide, long-horizon  
+**Focus:** Enduring impact, technical leadership, legacy
+
+### Technical Excellence
+- Sets technical direction that shapes the company’s future
+- Solves problems others consider unsolvable
+- Advances the state of engineering practice within the organization
+- Influences technology choices years into the future
+- Represents the highest bar of technical excellence
+
+### Execution & Delivery
+- Drives transformational technical initiatives
+- Guides the organization through major technical shifts
+- Ensures sustained excellence across generations of systems
+- Balances innovation with operational stability at extreme scale
+
+### Collaboration & Influence
+- Influences across the entire company and externally
+- Mentors Principals, Staff engineers, and engineering leaders
+- Acts as a cultural and technical role model
+- Shapes the engineering identity and values of the organization
+
+### Customer & Business Impact
+- Enables step-function improvements in company capabilities
+- Aligns technology vision with long-term business strategy
+- Leaves a lasting technical and organizational legacy

@@ -1,0 +1,38 @@
+# Senior Software Engineer 2 (SSE2) - Career Framework
+
+### Frontend
+
+#### Technical Excellence
+- Leads architecture for complex UI domains
+- Drives frontend performance, accessibility, and consistency
+- Sets the quality bar for frontend code
+
+#### Execution & Delivery
+- Leads delivery across multiple UI workstreams
+- Owns reliability of critical frontend surfaces
+
+#### Collaboration & Influence
+- Influences technical decisions beyond the immediate team
+- Enables other frontend engineers through guidance and reviews
+
+#### Customer & Business Impact
+- Drives measurable improvements in user experience
+
+---
+
+### Backend
+
+#### Technical Excellence
+- Owns architecture of complex backend domains
+- Anticipates and mitigates scalability and reliability risks
+
+#### Execution & Delivery
+- Leads delivery of backend initiatives spanning teams
+- Owns production health of critical services
+
+#### Collaboration & Influence
+- Acts as a backend technical leader across teams
+- Mentors senior engineers
+
+#### Customer & Business Impact
+- Delivers backend improvements with measurable business impact

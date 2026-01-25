@@ -1,0 +1,41 @@
+# Senior Software Engineer 1 (SSE1) - Career Framework
+
+### Frontend
+
+#### Technical Excellence
+- Designs and builds microfrontends and shared UI foundations
+- Implements advanced React patterns and performance optimizations
+- Makes sound architectural and technical trade-offs
+
+#### Execution & Delivery
+- Delivers complex UI features end-to-end independently
+- Breaks down large initiatives into incremental deliverables
+- Handles production UI issues effectively
+
+#### Collaboration & Influence
+- Mentors junior engineers
+- Drives frontend design discussions and documents decisions
+
+#### Customer & Business Impact
+- Improves user experience and reduces configuration friction
+- Aligns UI work with product and business priorities
+
+---
+
+### Backend
+
+#### Technical Excellence
+- Designs and builds backend services from scratch
+- Tunes services for performance, scalability, and reliability
+- Solves complex production issues by identifying root causes
+
+#### Execution & Delivery
+- Owns backend services through deployment and on-call
+- Delivers features with minimal handholding
+
+#### Collaboration & Influence
+- Leads backend design discussions
+- Improves shared backend infrastructure
+
+#### Customer & Business Impact
+- Builds scalable backend systems that support business growth

@@ -1,0 +1,30 @@
+# Staff Engineer 1 (Staff1) - Career Framework
+
+**Scope:** Owns major technical areas spanning multiple teams  
+**Focus:** Enablement, cross-team execution, system correctness
+
+### Technical Excellence
+- Designs and evolves large subsystems or platforms used by multiple teams
+- Owns system-level architecture within a defined domain
+- Anticipates scalability, reliability, and operability concerns early
+- Establishes and reinforces technical standards and best practices
+- Makes high-quality trade-offs balancing long-term architecture and near-term delivery
+
+### Execution & Delivery
+- Leads complex initiatives that span teams or services
+- Breaks ambiguous problems into executable plans
+- Owns delivery outcomes, not just designs
+- Proactively manages technical and delivery risk
+- Ensures production readiness across dependent systems
+
+### Collaboration & Influence
+- Influences technical direction across teams without formal authority
+- Aligns engineers, PMs, and stakeholders around shared technical decisions
+- Acts as a technical multiplier by enabling other senior engineers
+- Mentors SSEs and emerging Staff engineers
+- Drives clarity in complex or contentious technical discussions
+
+### Customer & Business Impact
+- Connects technical decisions to customer experience and business outcomes
+- Improves platform reliability, scalability, or velocity in measurable ways
+- Balances product delivery with reduction of systemic technical debt

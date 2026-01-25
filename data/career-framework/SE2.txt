@@ -1,0 +1,40 @@
+# Software Engineer 2 (SE2) - Career Framework
+
+### Frontend
+
+#### Technical Excellence
+- Builds maintainable UI components and flows
+- Debugs common UI, state, and data-fetching issues
+- Applies performance and accessibility best practices
+
+#### Execution & Delivery
+- Delivers features end-to-end with minimal guidance
+- Prioritizes high-impact UI work
+- Participates in on-call and incident resolution
+
+#### Collaboration & Influence
+- Works with Product and Design to clarify requirements
+- Communicates trade-offs clearly
+
+#### Customer & Business Impact
+- Improves usability and reliability of user workflows
+
+---
+
+### Backend
+
+#### Technical Excellence
+- Develops backend features in a microservices environment
+- Debugs moderately complex production issues
+- Improves existing code when touching it
+
+#### Execution & Delivery
+- Owns backend features from implementation to release
+- Documents learnings from incidents
+
+#### Collaboration & Influence
+- Collaborates effectively with frontend and platform teams
+- Contributes to shared backend libraries
+
+#### Customer & Business Impact
+- Builds reliable APIs that support customer-facing features

@@ -1,0 +1,28 @@
+# Architect (Architect) - Career Framework
+
+**Scope:** Enterprise systems and cross-domain architecture  
+**Focus:** Coherence, correctness, long-term sustainability
+
+### Technical Excellence
+- Designs and governs enterprise-wide architecture
+- Ensures consistency, interoperability, and correctness across systems
+- Evaluates and evolves core technology choices
+- Defines reference architectures and architectural principles
+- Anticipates long-term scalability and integration challenges
+
+### Execution & Delivery
+- Guides teams in implementing architectural standards
+- Reviews and influences designs across multiple domains
+- Balances local optimization with global coherence
+- Manages architectural risk across the organization
+
+### Collaboration & Influence
+- Works closely with engineering, product, and leadership
+- Aligns teams around shared architectural direction
+- Educates teams on architectural principles and trade-offs
+- Acts as final authority on architectural decisions when required
+
+### Customer & Business Impact
+- Enables faster, safer delivery through architectural clarity
+- Reduces long-term operational and integration costs
+- Supports business scalability through sound system design

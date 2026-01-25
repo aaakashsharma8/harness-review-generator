@@ -1,0 +1,30 @@
+# Principal Engineer (Principal) - Career Framework
+
+**Scope:** Company-wide or major business unit  
+**Focus:** Vision, leverage, long-term technical strategy
+
+### Technical Excellence
+- Defines long-term technical vision aligned with company strategy
+- Solves ambiguous, high-impact technical problems with no obvious solution
+- Shapes architectural direction across multiple domains
+- Identifies inflection points and steers the organization through them
+- Sets standards for technical excellence across the company
+
+### Execution & Delivery
+- Owns outcomes for mission-critical systems or platforms
+- Drives execution of large, cross-org technical initiatives
+- Balances innovation, stability, and delivery at scale
+- Ensures technical strategy translates into real-world outcomes
+- Anticipates future technical and organizational challenges
+
+### Collaboration & Influence
+- Influences company-wide technical decisions without authority
+- Partners closely with senior engineering and product leadership
+- Mentors Staff and Principal engineers
+- Acts as a stabilizing force during periods of change
+- Creates alignment across highly diverse teams and viewpoints
+
+### Customer & Business Impact
+- Enables major business bets through technology
+- Connects long-term technical investments to company growth
+- Improves resilience, scalability, and velocity of core platforms
