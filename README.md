@@ -11,7 +11,7 @@ Generate calibration-grade performance reviews from your merged PRs — complete
 ---
 ## 🔥 Demo
 
-![https://drive.google.com/file/d/1D7e-rqsXayARoV6GDjh2TZ53u7XY56Jb/preview](https://drive.google.com/file/d/1D7e-rqsXayARoV6GDjh2TZ53u7XY56Jb/preview)
+https://drive.google.com/file/d/1D7e-rqsXayARoV6GDjh2TZ53u7XY56Jb/preview
 
 ---
 
