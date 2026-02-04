@@ -9,6 +9,11 @@ Generate calibration-grade performance reviews from your merged PRs — complete
 ![TypeScript](https://img.shields.io/badge/typescript-5.x-blue.svg)
 
 ---
+## 🔥 Demo
+
+![Demo](https://drive.google.com/file/d/1D7e-rqsXayARoV6GDjh2TZ53u7XY56Jb/view?usp=sharing)
+
+---
 
 ## ✨ Features
 
